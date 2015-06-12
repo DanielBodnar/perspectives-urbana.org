@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Multia | Creative Digital Agency</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="HandheldFriendly" content="true">   
+   <meta name="description" content="" />
+    <meta name="author" content="">
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script type="text/javascript" src="http://use.typekit.net/hea5huf.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  
+	<link rel="icon" type="image/ico" href="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/favicon.ico" />
+    <link href="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/css/style.css" rel="stylesheet" />
+    <link href="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/nominee/awwwards.css" rel="stylesheet" />
+   
+</head>
+<body class="home border">
+
+	<!-- Preloader -->
+	<div class="preloader">
+		<div class="status"></div>
+	</div>
+	<!-- /Preloader -->
+	
+	<!--SUBSCRIBE FORM POPUP-->
+	<div class="sidemenu">
+		<div class="effect right">
+			<div class="col-lg-12 col-xs-12">
+				 <div class="col-lg-3 col-md-3 col-sm-3">
+					<div class="newsletter-logo">
+						<div class="wrap">
+							<svg id="newsletter" width="46.3" height="43.4" xmlns="http://www.w3.org/2000/svg">
+								 <g>
+								  <title>background</title>
+								  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+								 </g>
+								 <g>
+								  <title>Layer 1</title>
+								  <path  d="m1.2,11.4l12.399999,0l0,21.000002l-12.399999,0l0,-21.000002z" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+								  <path d="m13.6,11.4l11.299999,-9.7l0,40.000001l-11.099999,-9.5" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+								  <path  d="m28.200001,14.2l11.899998,-11.9" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+								  <path  d="m28.200001,21.700001l16.799999,0" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+								  <path d="m28.200001,29.299999l11.899998,11.900002" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+								 </g>
+							</svg>
+						</div>
+					</div>
+				 </div>
+				 <div class="col-lg-9 col-md-9 col-sm-9">
+					<p class="subscribe-head">Subscribe to our Monthly Newsletter.</p>
+					<p class="subscribe-para">You will get Monthly News & Announcements,<br/> New Work & Theme Releases, Freebies & much more.</p>
+					<!-- SUBSCRIBE FORM -->
+					<div class="notify-by-email">
+						<div class="form-notify">
+							<form action="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/php/notify-me.php" id="notifyMe" method="POST" class="">
+								<div class="input-group">
+								  <input type="text" class="sm-form-control email-add" name="email" placeholder="email">
+								</div>
+								<button class="btn btn-default notify-button uppercase white">subscribe</button>
+							</form>
+						</div>
+					</div>
+					<!-- /SUBSCRIBE FORM -->
+
+				 </div>
+			</div>
+				 
+		</div>
+
+	</div>
+	<!--/SUBSCRIBE FORM POPUP-->
+	
+	<!-- Border-->
+	<div id="border-top"></div>
+	<div id="border-left"></div>
+	<div id="border-right"></div>
+	<div id="border-bottom">
+		<ul class="nav navbar-nav border-nav">                                 
+			<li><a href="https://www.facebook.com/multia.in">facebook</a></li>
+			<li><a href="https://twitter.com/Multia_studio">twitter</a></li>
+			<li><a href="https://dribbble.com/Multia-Studio">dribbble</a></li>
+			<li><a href="https://www.behance.net/multia-studio">behance</a></li>
+			<li><a href="http://themeforest.net/user/Multia-Studio">themeforest </a></li>
+		</ul>
+		<p class="footer-tag">Made with love. © 2015 Multia-Studio.</p>
+	</div>
+	<!-- /Border -->
+	
+	<!--Header Nav-->
+	<a  href="http://multia.in/" class="logo"><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/logo.svg" alt="multia"/></a>
+	<header>
+		<nav>
+			<div class="list-container">
+				<ul id="header_ul">
+					<li class="">
+							<a class="header-links active-link animsition-link"  href="next.gif">home.</a>
+					</li>
+					<li class="">
+							<a class="header-links animsition-link"  href="http://multia.in/theme/mievent/corporate/slider/assets/css/work">work.</a>
+					</li>
+					<li class="">
+							<a class="header-links animsition-link"  href="http://multia.in/theme/mievent/corporate/slider/assets/css/themes">themes.</a>
+					</li>
+					<li class="">
+							<a class="header-links animsition-link"  href="http://multia.in/theme/mievent/corporate/slider/assets/css/about">studio.</a>
+					</li>
+					<li class="">
+							<a class="header-links animsition-link"  href="http://multia.in/theme/mievent/corporate/slider/assets/css/contact">contact.</a>
+					</li>
+					<li class="">
+							<a class="header-links animsition-link"  href="http://multia.in/theme/mievent/corporate/slider/assets/css/startaproject">start a project.</a>
+					</li>
+				</ul>
+			</div>
+			<div class="handle">
+				<a class="link-menu trigger closed"><span class="a">Menu</span></a>
+			</div>
+		</nav>
+	</header>
+	<!--/Header Nav-->	
+	<!--Wrapper-->
+	<div class="wrapper no-padding">
+		<!--Home-landing-sec-->
+		<section class="landing-sec">
+			
+			<!--Hero-->
+			<div id="hero" class="parallax-hero">
+				
+				<!--Scene Create-->
+				<div id="scene">
+					<div id="background-wallpaper" data-parallaxify-range-x="10" data-parallaxify-range-y="0"></div>
+					<div class="ipad-frame">
+						<div class="iphone-frame">
+							<!--Solid 360-rotate-->
+							<div class="solid">
+								<ul class="list">
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/0.png" alt="multia_solid" /></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/1.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/2.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/3.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/4.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/5.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/6.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/7.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/8.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/9.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/10.png" alt="multia_solid" /></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/11.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/12.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/13.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/14.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/15.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/16.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/17.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/18.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/19.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/20.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/21.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/22.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/23.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/24.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/25.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/26.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/27.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/28.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/29.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/30.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/31.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/32.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/33.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/34.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/35.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/36.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/37.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/38.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/39.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/40.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/41.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/42.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/43.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/44.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/45.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/46.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/47.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/48.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/49.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/40.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/51.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/52.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/53.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/54.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/55.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/56.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/57.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/58.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/59.png" alt="multia_solid"/></li>
+									<li><img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/scene/60.png" alt="multia_solid"/></li>
+								</ul>
+							</div>
+							<!--/Solid 360-rotate-->
+						</div>
+						<div id="iphone">
+							<div id="background-wallpaper2" data-parallaxify-range-x="2" data-parallaxify-range-y="0"></div>
+						</div>
+					</div>
+					<div id="ipad">
+						<div id="background-wallpaper1" data-parallaxify-range-x="4" data-parallaxify-range-y="0"></div>
+					</div>
+				</div>
+				<!--/Scene Create-->
+			
+			</div>
+			<!--/Hero-->
+			
+			<!--Home-intro-text-->
+			<div>
+				<div class="home-intro-text">
+					<div class="container  wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s">
+						<h1>We Design for<br/>Tomorrow.</h1>
+						<p>Branding &nbsp; I &nbsp; Websites &nbsp; I &nbsp; Themes</p>
+					</div>
+				</div>
+			</div>	
+			<!--/Home-intro-text-->
+			
+		</section>	
+		<!--/Home-landing-sec-->
+		
+		<!-- Main --> 
+		<div id="main">
+		
+			<!--Home-about-sec-->
+			<section class="about-sec section-padding-top">
+				<div class="container  no-padding">
+					
+					<div class="col-lg-6 col-md-9 col-sm-9">
+						<h2 class="wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s" >We are a Small, Personable, Highly-Focused, Creative Digital Agency.</h2>
+					</div>	
+					<div class="col-lg-6 col-md-12 col-sm-12 clear">
+						<p class="  wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s">Multia has over 10 years of experience in Design, Technology and Marketing. We take pride in delivering Intelligent Designs and Engaging Experiences for clients all over the World.</p>
+						<!--mobile-->
+						<a href="http://multia.in/theme/mievent/corporate/slider/assets/css/about">
+							<span class="linkto-only-mob wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s"><u>know about US</u></span>
+						</a>
+						<!--/mobile-->
+					</div>
+						
+					<!--Animated-Svg-->
+					<div class="col-lg-5 col-md-9 col-sm-9 col-lg-offset-1 col-md-offset-0 infinity-wrap">
+						<svg id="eclips" width="100%" height="100%" viewbox="0,0,562,250" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <path d="m271.100006,115.699997c0,0 -57.800003,-52.299995 -71.300003,-62.299995c-10,-7.400002 -53.600006,-42.100002 -107.800003,-19.400002c-8.900002,3.700001 -59.5,24.400002 -54.5,92.399994c0,0 3,52.800003 58.300003,76.5c17.699997,7.600006 55.099991,17 98.699997,-16.599991c15.199997,-11.699997 93.299988,-86.300003 123.5,-113.200005c21.200012,-18.799999 54.200012,-49.899998 99.700012,-47c0,0 47.399994,0.700001 77.699982,50.800003c0,0 32.600006,56.099998 -17.600006,107.199989c-22.799988,23.400009 -78.699982,43.900009 -130.799988,4.300003c-26.100006,-20 -75.899994,-72.699997 -75.899994,-72.699997z" stroke-miterlimit="10" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m116.699997,2.2l0,12.7" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m116.699997,218.899994l0,12.699997" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m14.700001,116.900002l-12.700001,0" stroke-width="1.5" stroke="#231F20" fill="none" />
+  <path d="m44.599998,44.799999l-9,-9" stroke-width="1.5" stroke="#231F20" fill="none" />
+  <path d="m44.599998,189.100006l-9,8.900009" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m22.900002,76.900002l-11.700001,-5" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m77,210.899994l-4.900002,11.699997" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m22.799999,156.800003l-11.599998,5" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m77.300003,22.799999l-4.800003,-11.699999" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m346.799988,105.599998l61,70.000008l59.299988,-69.500008" stroke-width="1.5" stroke="#231F20" fill="none" />
+  <path d="m346.100006,105.5l30.300018,-29.599998l62.899994,0l28.5,30" stroke-width="1.5" stroke="#231F20" fill="none" />
+  <path d="m407.200012,76.199997l31.799988,29.700005" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m376.600006,105.699997l30.600006,-29.799995" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m376.299988,75.900002l0,29.799995" stroke-width="1.5" stroke="#231F20" fill="none" />
+  <path d="m438.899994,75.900002l0,29.799995" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m376.299988,105.5l31.5,70.100006" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m407.600006,175.600006l31.399994,-70.099998" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m100.199997,118.199997l63,0" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m131.699997,165.899994l0,-95.399994" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m402.700012,224.600006l12.399994,0" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m408.899994,230.800003l0,-12.400009" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m506.700012,42.599998l23.299988,0" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m518.299988,54.299999l0,-23.299999" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m303.299988,35.099998l12.5,0" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m309.5,41.299999l0,-12.399998" stroke-width="1.5" stroke="#231F20" fill="none"/>
+  <path d="m346.799988,105.099998l120,0" stroke-width="1.5" stroke="#231F20" fill="none"/>							 </g>
+</svg>
+											</div>
+					<!--/Animated-Svg-->
+				
+					<div class="col-lg-12 detail-link-1  wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s">
+						<a href="http://multia.in/theme/mievent/corporate/slider/assets/css/about">
+							<div class="linkto">
+								<span class="linkto-text">know about US</span>
+								<span class="linkto-svg">
+									<svg version="1.1" id="Layer_5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+		 width="66px" height="65px" viewBox="-6 7 80 66" enable-background="new 0 0 66 54" xml:space="preserve">
+	<g>
+	  <path  d="m1.966667,21.733332l16,-19.699999l15.899998,19.699999" stroke-opacity="null" stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path  d="m34.633335,21.733332l15.900002,-19.699999l15.89999,19.699999" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path d="m34.700001,55.799999l-33.900001,-33.9" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path  d="m33.599998,55.799999l33.900002,-34" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path  d="m18.299999,60.933334l32,0" stroke-opacity="null" stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path  d="m1.304849,22.054787l65.833373,0" stroke-opacity="null" stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+
+	</g>
+</svg>								</span>
+							</div>
+						</a>	
+					</div>
+					
+				</div>
+			</section>
+			<!--/Home-about-sec-->
+			
+			<!--Home-work-sec-->
+			<section class="work-sec section-padding-top">
+				<div class="container  no-padding">
+					<div class="col-lg-6 col-md-9 col-sm-9">
+						<h2 class="wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s">We Work with Start-Ups to Fortune 500 Companies.</h2>
+						<!--mobile-->
+						<a href="http://multia.in/theme/mievent/corporate/slider/assets/css/work">
+							<span class="linkto-only-mob wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s"><u>view our work</u></span>
+						</a>
+						<!--/mobile-->
+					</div>
+					<div class="detail-link-2">
+						<a href="http://multia.in/theme/mievent/corporate/slider/assets/css/work">
+							<div class="linkto wow animated fadeInRight" data-wow-duration="1s" data-wow-delay=".7s">
+								<span class="linkto-text">view our work</span>
+								<span class="linkto-svg">
+									<svg version="1.1" id="Layer_6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="66px" height="65px" viewBox="-6 7 80 59" enable-background="new 0 0 66 54" xml:space="preserve">
+<g>
+  <path  d="m1.3,13.2l63.7,0l0,42.8l-63.7,0l0,-42.8z" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+  <path  d="m38.099998,26.799999l27,0" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+  <path  d="m1.1,26.799999l26.600001,0" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+  <path d="m27.9,22.799999l10.4,0l0,10.399998l-10.4,0l0,-10.399998z" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+  <path  d="m17.9,1l30.500002,0l0,12.1l-30.500002,0l0,-12.1z" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+</g>
+</svg>								</span>
+							</div>
+					   </a>	
+					</div>
+				</div>
+				<div class="container">
+					<div class="col-lg-12 work-blocks no-padding">
+						
+						<a class="" href="http://multia.in/theme/mievent/corporate/slider/assets/css/work/bharatforge">
+							<div class="item col-lg-6 col-md-6 col-sm-6 col-xs-6 row-1col-1 no-padding wow animated fadeInUp animated" data-wow-duration="1s" data-wow-delay="1s">
+								<span class="project-title">Bharat Forge</span>
+								
+									<div class="item-overlay">
+										<span class="project-title">Bharat Forge</span>
+										<h4 class="item-title">Designed & Developed a Global Website of a Fortune-500 company.</h4>                    
+										<span class="item-cat">Website</span>
+										<div class="svg-arrow">
+											<svg class="example1" width="200" height="200" viewBox="0 0 247 153" xmlns="http://www.w3.org/2000/svg">
+	 <g>
+	  <title>Layer 1</title>
+	  <path stroke="#000"  d="m1.75,197.75l196,-196" stroke-opacity="null" stroke-width="1.5" fill-opacity="null" fill="none"/>
+	  <path  d="m197.75,1.75l0,39l-39,-39l39,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+	 </g>
+</svg>										</div>
+									</div>
+								<img class="img-responsive" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/work/01.jpg" alt="project_multia"/>
+							</div>	
+						</a>
+						<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 row-1col-2 no-padding">								
+							<a class="" href="http://multia.in/theme/mievent/corporate/slider/assets/css/work/tata">
+								<div class="item small col-lg-6 col-md-6 col-sm-6 col-xs-6 row-1col-2col-1 no-padding wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="1.1s">
+									<span class="project-title">Tata</span>
+										<div class="item-overlay">
+											<span class="project-title">Tata</span>
+											<h4 class="item-title">Developed a Calendar Management Web App. </h4>                      
+											<span class="item-cat">Website</span>
+											<div class="svg-arrow">
+												<svg class="example1" width="150" height="150" viewBox="-60 60 247 37" xmlns="http://www.w3.org/2000/svg">
+	<g>
+	<title>Layer 1</title>
+	<path stroke="#000" d="m4.250009,140.75l139.999991,-140" stroke-opacity="null" stroke-width="1.8" fill-opacity="null" fill="none"/>
+	<path stroke="#000" d="m144.25,0.75l0,42l-42,-42l42,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.8" fill="none"/>
+	</g>
+</svg>											</div>
+										</div>
+									<img class="img-responsive" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/work/02.jpg" alt="project_multia"/>
+								</div>
+							</a>
+							
+							<a class="" href="http://multia.in/theme/mievent/corporate/slider/assets/css/work/renault">
+								<div class="item small col-lg-6 col-md-6 col-sm-6 col-xs-6 row-1col-2col-2 no-padding wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="1.2s">
+									<span class="project-title">Renault</span>
+									<div class="item-overlay">
+										<span class="project-title">Renault</span>
+										<h4 class="item-title">Redefined the look of Automative Websites.</h4>         
+										<span class="item-cat">Website</span>
+										<div class="svg-arrow">
+											<svg class="example1" width="150" height="150" viewBox="-60 60 247 37" xmlns="http://www.w3.org/2000/svg">
+	<g>
+	<title>Layer 1</title>
+	<path stroke="#000" d="m4.250009,140.75l139.999991,-140" stroke-opacity="null" stroke-width="1.8" fill-opacity="null" fill="none"/>
+	<path stroke="#000" d="m144.25,0.75l0,42l-42,-42l42,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.8" fill="none"/>
+	</g>
+</svg>										</div>
+									</div>
+									<img class="img-responsive" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/work/03.jpg" alt="project_multia"/>
+								</div>
+							</a>
+							
+							<a class="" href="http://multia.in/theme/mievent/corporate/slider/assets/css/work/shopify">
+								<div class="item small col-lg-6 col-md-6 col-sm-6 col-xs-6 row-2col-2col-1 no-padding wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="1.3s">
+									<span class="project-title">Shopify</span>
+									<div class="item-overlay">
+										<span class="project-title">Shopify</span>
+										<h4 class="item-title">Designed the  Indian Launch Campaigns.</h4>                    
+										<span class="item-cat">Print</span>
+										<div class="svg-arrow">
+											<svg class="example1" width="150" height="150" viewBox="-60 60 247 37" xmlns="http://www.w3.org/2000/svg">
+	<g>
+	<title>Layer 1</title>
+	<path stroke="#000" d="m4.250009,140.75l139.999991,-140" stroke-opacity="null" stroke-width="1.8" fill-opacity="null" fill="none"/>
+	<path stroke="#000" d="m144.25,0.75l0,42l-42,-42l42,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.8" fill="none"/>
+	</g>
+</svg>										</div>
+									</div>
+									<img class="img-responsive" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/work/04.jpg" alt="project_multia"/>
+								</div>
+							</a>
+							<a class="" href="http://multia.in/theme/mievent/corporate/slider/assets/css/work/wwf">
+								<div class="item small col-lg-6 col-md-6 col-sm-6 col-xs-6 row-2col-2col-2 no-padding wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="1.4s">
+									<span class="project-title">WWF</span>
+									
+										<div class="item-overlay">
+											<span class="project-title">WWF</span>
+											<h4 class="item-title">Designed six of their Annual Reports.</h4>                   
+											<span class="item-cat">Print</span>
+											<div class="svg-arrow">
+												<svg class="example1" width="150" height="150" viewBox="-60 60 247 37" xmlns="http://www.w3.org/2000/svg">
+	<g>
+	<title>Layer 1</title>
+	<path stroke="#000" d="m4.250009,140.75l139.999991,-140" stroke-opacity="null" stroke-width="1.8" fill-opacity="null" fill="none"/>
+	<path stroke="#000" d="m144.25,0.75l0,42l-42,-42l42,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.8" fill="none"/>
+	</g>
+</svg>											</div>
+										</div>
+									
+									<img class="img-responsive" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/work/05.jpg" alt="project_multia"/>
+								</div>
+							</a>
+						</div>
+						<div class="col-lg-6 col-md-6 col-sm-6 row-2col-1 col-xs-6 no-padding">							
+							<a class="" href="http://multia.in/theme/mievent/corporate/slider/assets/css/work/homeserve">
+								<div class="item small col-lg-6 col-md-6 col-sm-6 col-xs-6 row-2col-2col-1 no-padding wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="1.5s">
+									<span class="project-title">Home Serve</span>
+										<div class="item-overlay">
+											<span class="project-title">Home Serve</span>
+											<h4 class="item-title"> We created their Branding, Print & Digital Strategy.</h4>                  
+											<span class="item-cat">Branding & Website</span>
+											<div class="svg-arrow">
+												<svg class="example1" width="150" height="150" viewBox="-60 60 247 37" xmlns="http://www.w3.org/2000/svg">
+	<g>
+	<title>Layer 1</title>
+	<path stroke="#000" d="m4.250009,140.75l139.999991,-140" stroke-opacity="null" stroke-width="1.8" fill-opacity="null" fill="none"/>
+	<path stroke="#000" d="m144.25,0.75l0,42l-42,-42l42,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.8" fill="none"/>
+	</g>
+</svg>											</div>
+										</div>
+									<img class="img-responsive" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/work/07.jpg" alt="project_multia">
+								</div>
+							</a>
+							<a class="" href="http://multia.in/theme/mievent/corporate/slider/assets/css/work/whiskit">
+								<div class="item small col-lg-6 col-md-6 col-sm-6 col-xs-6 row-2col-2col-2 no-padding wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="1.6s">
+									<span class="project-title">Whiskit</span>
+										<div class="item-overlay">
+											<span class="project-title">Whiskit</span>
+											<h4 class="item-title">Created a Food Centric online Review Platform.</h4>                     
+											<span class="item-cat">Branding & Website</span>
+											<div class="svg-arrow">
+												<svg class="example1" width="150" height="150" viewBox="-60 60 247 37" xmlns="http://www.w3.org/2000/svg">
+	<g>
+	<title>Layer 1</title>
+	<path stroke="#000" d="m4.250009,140.75l139.999991,-140" stroke-opacity="null" stroke-width="1.8" fill-opacity="null" fill="none"/>
+	<path stroke="#000" d="m144.25,0.75l0,42l-42,-42l42,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.8" fill="none"/>
+	</g>
+</svg>											</div>
+										</div>
+									<img class="img-responsive" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/work/08.jpg" alt="project_multia"/>
+								</div>
+							</a>
+						</div>							
+						<a class="" href="http://multia.in/theme/mievent/corporate/slider/assets/css/work/sokrati">
+							<div class="item small col-lg-6 col-md-6 col-sm-6 col-xs-6 row-2col-2 no-padding wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="1.7s">
+								<span class="project-title">Sokrati</span>
+									<div class="item-overlay">
+										<span class="project-title">Sokrati</span>
+										<h4 class="item-title">Created Infographics to simply explain Complex Digital Products.</h4>                  
+										<span class="item-cat">Website</span>
+										<div class="svg-arrow">
+											<svg class="example1" width="150" height="150" viewBox="-60 60 247 37" xmlns="http://www.w3.org/2000/svg">
+	<g>
+	<title>Layer 1</title>
+	<path stroke="#000" d="m4.250009,140.75l139.999991,-140" stroke-opacity="null" stroke-width="1.8" fill-opacity="null" fill="none"/>
+	<path stroke="#000" d="m144.25,0.75l0,42l-42,-42l42,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.8" fill="none"/>
+	</g>
+</svg>										</div>
+									</div>
+								<img class="img-responsive" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/work/06.jpg" alt="project_multia"/>
+							</div>
+						</a>
+					</div>
+				</div>
+			</section>
+			<!--/Home-work-sec-->
+			
+			<!--Home-theme-sec-->
+			<section class="theme-sec section-padding-top">
+				<div class="container  no-padding">
+					<div class="col-lg-6 col-md-9 col-sm-9">
+						<h2 class="wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s">Innovative Blend of<br/> Design + Code.</h2>
+					</div>	
+					
+					<div class="col-lg-6 col-md-12 col-sm-12 clear">
+						<p class="wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s">We build more than just Themes. We build User Experience for both, you and your visitors. Our Themes are great to look at, set up in minutes and easy to modify.</p> 
+						<!--mobile-->
+						<a href="http://multia.in/theme/mievent/corporate/slider/assets/css/themes">
+							<span class="linkto-only-mob wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s"><u>go to themes</u></span>
+						</a>
+						<!--/mobile-->
+					</div>
+					<div class="col-lg-3  detail-link-3 wow animated fadeInRight" data-wow-duration="1s" data-wow-delay=".7s">
+						<a href="http://multia.in/theme/mievent/corporate/slider/assets/css/themes">
+							<div class="linkto wow animated fadeInRight" data-wow-duration="1s" data-wow-delay=".7s">
+								<span class="linkto-text">go to themes</span>
+								<span class="linkto-svg">
+									<svg version="1.1" id="Layer_7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="66px" height="65px" viewBox="-8 7 80 56" enable-background="new 0 0 66 54" xml:space="preserve">
+<g>
+  <path  d="m55.599998,52.433327c0,0.400002 -0.299999,0.700001 -0.699997,0.700001l-53.100002,0c-0.4,0 -0.7,-0.299999 -0.7,-0.700001l0,-51.199999c0,-0.4 0.3,-0.7 0.7,-0.7l53.2,0c0.400002,0 0.700001,0.3 0.700001,0.7l0,12.5" stroke-miterlimit="10" stroke-width="1.5" stroke="#fff" fill="none" clip-rule="evenodd" fill-rule="evenodd"/>
+  <path  d="m1.2,7.7l54.500001,0" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+  <path  d="m37.900002,7.1l0,46.199999" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+  <path  d="m1.1,37.099998l36.800002,0" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+  <path  d="m65.099998,51.599998c0,0.900002 -0.799995,1.700001 -1.699997,1.700001l-15.200001,0c-0.900002,0 -1.700001,-0.799999 -1.700001,-1.700001l0,-35.999998c0,-0.900001 0.799999,-1.700001 1.700001,-1.700001l15.299999,0c0.900002,0 1.699997,0.8 1.699997,1.700001l0,35.999998l-0.099998,0z" stroke-miterlimit="10" stroke-width="1.5" stroke="#fff" fill="none"/>
+</g>
+</svg>								</span>
+							</div>
+					   </a>		
+					</div>
+				</div>	
+				<div class="container slider-wraper clear no-padding">
+					 <!-- Jssor Slider For Browser Screen Begin -->
+					<div class="container">
+						<div class="browser-slider-wraper clear wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s">
+							<!-- You can move inline styles to css file or css block. -->
+							<div id="slider1_container">
+								<!-- Slides Container -->
+								<div class="slider" data-u="slides">
+									<div>
+										<img  src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/browserscreenshots/01.png" alt="multia_theme"/>										
+									</div>
+									<div>
+										<img  src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/browserscreenshots/02.png" alt="multia_theme"/>										
+									</div>
+									<div>
+										<img  src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/browserscreenshots/03.png" alt="multia_theme"/>										
+									</div>
+									<div>
+										<img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/browserscreenshots/04.png" alt="multia_theme"/>										
+									</div>									
+								</div>							
+							</div>
+						</div>
+						<!-- /Jssor Slider For Browser Screen Begin -->
+					</div>
+					<!-- Jssor Slider For Mobile Screen Begin -->
+					<div class="mobile-slider-wraper clear wow animated fadeInRight" data-wow-duration="1s" data-wow-delay=".7s">
+						<!-- You can move inline styles to css file or css block. -->
+						<div id="slider2_container">
+							<!-- Slides Container -->
+							<div class="slider" data-u="slides">
+								<div>
+									<img  src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/mobilescreenshots/01.png" alt="multia_theme"/>
+									
+								</div>
+								<div>
+									<img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/mobilescreenshots/02.png" alt="multia_theme"/>
+									
+								</div>
+								<div>
+									<img  src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/mobilescreenshots/03.png" alt="multia_theme"/>
+									
+								</div>
+								<div>
+									<img  src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/mobilescreenshots/04.png" alt="multia_theme"/>
+									
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- /Jssor Slider For Mobile Screen Begin -->
+				
+				</div>				
+			</section>
+			<!--/Home-theme-sec-->
+			
+			<!--Home-multia-sec-->
+			<section class=" section-padding-top">
+				<div class="container  no-padding">
+					<div>
+						<div class="col-lg-6 col-md-9 col-sm-9">
+							<h2 class="wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s">Life at Multia.</h2>
+						</div>
+					</div>
+					<div class="col-lg-12 multia-blocks">
+						<div id="vimeo_team" class=" col-lg-6 col-md-6 col-sm-6 col-xs-6 row-1col-1 no-padding wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="1s">
+								<img class="video-screen img-responsive" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/life/photo.jpg" alt="team-img" />
+								<a class="popup-vimeo" href="https://vimeo.com/127717397" target="_self">
+									<img class="img-responsive play-video" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/video.svg" alt="play" />
+								</a>	
+						</div>
+							
+						<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 row-1col-2 no-padding">
+							<a href="http://multia.in/theme/mievent/corporate/slider/assets/css/wearesocialanimals">
+								<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 row-1col-2col-1 no-padding  wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="1.1s">
+									<div class="social-button">
+										<p class=" white ">We are social<br/> animals.</p>
+										<img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/life/owl.png" alt="multia-owl"/>
+									</div>
+									<div class="multia-blocks-overlay">
+										<span>View Our<br/> Social Profiles</span>
+									</div>
+								</div>
+							</a>
+							<a target="_blank" href="http://www.awwwards.com/best-websites/miagency-minimalistic-flexible-portfolio-wordpress-theme/">
+								<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 row-1col-2col-2 no-padding wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="1.2s">
+									<div class="multia-blocks-overlay">
+										<span>We've been featured<br/> on Awwwards.</span>
+									</div>
+									<img class="img-responsive" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/life/awwwards.jpg" alt="project_multia"/>
+								</div>
+							</a>
+							<a href="http://multia.in/theme/mievent/corporate/slider/assets/css/downloadfreepatterns">
+								<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 row-2col-2col-1  wow animated fadeInUp animated-patterns-multia" data-wow-duration="1s" data-wow-delay="1.5s">
+									<div class="pattern-block">
+										<p class="  white">We love making &amp; <br/> breaking patterns.</p>
+									</div>
+								</div>
+							</a>
+							<a href="http://multia.in/theme/mievent/corporate/slider/assets/css/codingisinourblood">
+								<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 row-2col-2col-2 no-padding wow animated fadeInUp" data-wow-duration="1s" data-wow-delay="1.3s">
+									<div class=" code-block">
+										<img src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/life/code.png" alt="multia-code"/>
+										<p class="  black">Coding is in <br/> our blood.</p>
+									</div>
+									<div class="multia-blocks-overlay">
+										<span>Check out the<br/> Unique & Awesome <br/> effects we've created.</span>
+									</div>
+								</div>
+							</a>
+							
+						</div>
+					</div>
+				</div>
+			</section>
+			<!--/Home-multia-sec-->
+			
+			<!--Home-testimonial-sec-->
+			<section class="section-padding-top">
+				<div class="container  no-padding">
+						<div class="col-lg-5 col-md-9 col-sm-9">
+							<h2 class="wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay="1.4s">Trusted by 1000+ Customers.</h2>
+						</div>
+					<div class="col-lg-12  test-block no-padding">
+						<div class="col-lg-6 col-md-6 col-sm-12 test-block-1">
+							<div class="wow animated fadeInLeft"  data-wow-duration="1s" data-wow-delay=".7s">
+								<div class="testimonial-bg-1 wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s">
+									<blockquote>"No match to the great designs, speed and execution capabilities. Helps position my brand with the right perspective."</blockquote>
+								</div>
+								<div class="traingle"></div>
+							</div>	
+							<div class="col-lg-12 name-desc wow animated fadeInLeft" data-wow-duration="1s" data-wow-delay=".7s">
+								<span class="name">Vijay K. Bysani</span>
+								<span class="pos">Vice President, Home Serve</span>
+							</div>
+						</div>
+						<div class="col-lg-6 col-md-6 col-sm-12  test-block-2 wow animated fadeInRight" data-wow-duration="1s" data-wow-delay=".7s">
+							<div class="wow animated fadeInLeft animated"  data-wow-duration="1s" data-wow-delay=".7s">
+								<div class="testimonial-bg-2">
+									<blockquote>"This work is exceptional. The design has that wonderful minimalistic quality while also managing to surprise the user (in a great way) with an unexpected level of functionality. The documentation is beautiful and complete. This is a new level of quality!"</blockquote>
+								</div>
+								<div class="traingle"></div>
+							</div>
+							<div class="col-lg-12 name-desc wow animated fadeInRight " data-wow-duration="1s" data-wow-delay=".7s">
+								<span class="name">CreativelyMe</span>
+								<span class="pos">MiPortfolio Theme</span>
+							</div>
+						</div>
+					</div>	
+				</div>
+			</section>
+			<!--/Home-testimonial-sec-->
+			
+			<!--Home-client-sec-->
+			<section class="section-padding">
+				<div class="container  no-padding">
+					<div id="slider3_container">
+						<div class="inner_carousal slider" data-u="slides">
+							<div><img alt="client_bharatforge" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/clients/client_bharatforge.png" /></div>
+							<div><img alt="client_tata" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/clients/client_tata.png" /></div>
+							<div><img alt="client_renault" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/clients/client_renault.png" /></div>
+							<div><img alt="client_reliance" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/clients/client_reliance.png" /></div>
+							<div><img alt="client_shopify" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/clients/client_shopify.png" /></div>
+							<div><img alt="client_wwf" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/clients/client_wwf.png" /></div>
+							<div><img alt="client_sokrati" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/images/clients/client_sokrati.png" /></div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!--/Home-client-sec-->
+		</div>
+		<!--/Main-->
+		
+		<!--Awwwards-->
+		<div id="awwwards" class="nominee white right">
+			<a href="http://www.awwwards.com/best-websites/multia/" target="_blank">Awwwards</a>
+		</div>	
+		<!--/Awwwards-->
+		
+		<!--CssNectar-->
+			<a id="cssnectar" href="http://cssnectar.com/css-gallery-inspiration/multia-studio/" title="CSS Nectar - Nominee" target="_blank">CSS Nectar Web Design Gallery</a>
+		<!--/CssNectar-->
+		
+		<!--CssReel-->
+			<a id="cssreel" href="http://cssreel.com/Website/multia" title="CssReel - Nominee" target="_blank">CSS Reel</a>
+		<!--/CssReel-->
+			<!--Footer-->
+			<section class="footer-sec section-padding">
+				<div class="container  no-padding">
+					<div class="col-lg-12  col-md-12 col-sm-12 col-xs-12  contact-detail">
+						<div class="col-lg-3 col-md-3 col-sm-3  ">
+							<div class="col-lg-12  contact-img">
+								<a href="callto:+912041051818">
+									<div id="phone" class="contact-icon-wrap">
+										<div class="contact-icon-svg">
+											<svg version="1.1" id="Layer_8" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+															 width="66px" height="65px" viewBox="-9 7 80 56" enable-background="new 0 0 66 54" xml:space="preserve">
+	<g>
+	  <path  d="m1.2,9.6c0,-4.640884 3.759116,-8.4 8.4,-8.4c4.640883,0 8.4,3.759116 8.4,8.4c0,4.640883 -3.759116,8.4 -8.4,8.4c-4.640884,0 -8.4,-3.759116 -8.4,-8.4z" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path  d="m8.2,9.6c0,-0.773481 0.626519,-1.400001 1.400001,-1.400001c0.77348,0 1.4,0.626519 1.4,1.400001c0,0.77348 -0.626519,1.4 -1.4,1.4c-0.773481,0 -1.400001,-0.626519 -1.400001,-1.4z" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path  d="m7.8,5.1c0,-0.828729 0.67127,-1.5 1.5,-1.5c0.828729,0 1.5,0.671271 1.5,1.5c0,0.828729 -0.671271,1.5 -1.5,1.5c-0.82873,0 -1.5,-0.671271 -1.5,-1.5z" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path  d="m3.6,9.3c0,-0.82873 0.671271,-1.5 1.5,-1.5c0.828729,0 1.5,0.67127 1.5,1.5c0,0.828729 -0.671271,1.5 -1.5,1.5c-0.828729,0 -1.5,-0.671271 -1.5,-1.5z" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path  d="m15.2,8.9c0.6,0.6 0.6,1.5 0,2.1c-0.599999,0.6 -1.5,0.6 -2.099999,0c-0.6,-0.600001 -0.6,-1.5 0,-2.1c0.599999,-0.599999 1.5,-0.599999 2.099999,0z" stroke-miterlimit="10" stroke-width="1.5" stroke="#fff" fill="none"/>
+	  <path  d="m8.5,14.1c0,-0.82873 0.67127,-1.5 1.5,-1.5c0.82873,0 1.5,0.67127 1.5,1.5c0,0.828729 -0.67127,1.5 -1.5,1.5c-0.82873,0 -1.5,-0.671271 -1.5,-1.5z" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path d="m38.299999,26.4c3.299999,3.300001 3.299999,8.6 0,11.9c-3.299999,3.299999 -8.6,3.299999 -11.9,0s-3.299999,-8.6 0,-11.9c3.300001,-3.199999 8.6,-3.199999 11.9,0z" stroke-miterlimit="10" stroke-width="1.5" stroke="#fff" fill="none"/>
+	  <path  d="m31,32.400002c0,-0.773481 0.62652,-1.400002 1.400002,-1.400002c0.773479,0 1.399998,0.62652 1.399998,1.400002c0,0.773479 -0.626518,1.399998 -1.399998,1.399998c-0.773481,0 -1.400002,-0.626518 -1.400002,-1.399998z" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path  d="m30.5,27.9c0,-0.82873 0.67127,-1.5 1.5,-1.5c0.828728,0 1.5,0.67127 1.5,1.5c0,0.82873 -0.671272,1.5 -1.5,1.5c-0.82873,0 -1.5,-0.67127 -1.5,-1.5z" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path  d="m26.4,32c0,-0.82873 0.67127,-1.5 1.5,-1.5c0.82873,0 1.5,0.67127 1.5,1.5c0,0.828728 -0.67127,1.5 -1.5,1.5c-0.82873,0 -1.5,-0.671272 -1.5,-1.5z" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path  d="m37.900002,31.6c0.600002,0.6 0.600002,1.499998 0,2.1c-0.600002,0.600002 -1.5,0.599998 -2.099998,0c-0.600002,-0.600002 -0.600002,-1.5 0,-2.1s1.499996,-0.5 2.099998,0z" stroke-miterlimit="10" stroke-width="1.5" stroke="#fff" fill="none"/>
+	  <path  d="m31.200001,36.900002c0,-0.828732 0.67127,-1.5 1.5,-1.5c0.828728,0 1.5,0.671268 1.5,1.5c0,0.828728 -0.671272,1.5 -1.5,1.5c-0.82873,0 -1.5,-0.671272 -1.5,-1.5z" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path  d="m11.8,17.700001l12.7,12.699999" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	  <path  d="m17.700001,11.8l12.699999,12.7" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+	</g>
+</svg>											</div>	
+									</div>
+								</a>	
+							</div>
+							<div class="col-lg-12 contact-number"><p class=""><a href="callto:+912041051818">+91 20 4105 1818</a></p></div>
+						</div>	
+						<div class="col-lg-3 col-md-3 col-sm-3">
+							<div class="col-lg-12  contact-img">
+								<a href="mailto:contact@multia.in">
+									<div id="mail" class="contact-icon-wrap">
+										<div class="contact-icon-svg">
+											<svg version="1.1" id="Layer_9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+				 width="66px" height="65px" viewBox="-10 7 80 61" enable-background="new 0 0 66 54" xml:space="preserve">
+  <g>
+  <path id="svg_3" d="m40.799999,16.799999l0,24l-39.499999,0l0,-24" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+  <path id="svg_4" d="m36.400002,13.9l4,3.200001l-19.400002,15.800001l-19.4,-15.800001l4,-3.3" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+  <path id="svg_5" d="m13.1,7.6l7.9,-6.3l7.9,6.4" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+  <path stroke="#fff" id="svg_6" d="m5.6,20.5l0,-12.8l30.800002,0l0,12.8" stroke-opacity="null"  stroke-width="1.5" fill-opacity="null" fill="none"/>
+  <path id="svg_7" d="m9.7,13.8l22.599999,0" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+  <path id="svg_8" d="m9.7,18.5l22.599999,0" stroke-opacity="null"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+  </g>
+ </svg> 										</div>
+									</div>
+								</a>	
+							</div>
+							<div class="col-lg-12   contact-number"><p class=""><a href="mailto:contact@multia.in">contact@multia.in</a></p></div>
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-3">
+							<div class="col-lg-12  contact-img">
+								<a href="http://multia.ticksy.com/">
+								<div id="support_multia" class="contact-icon-wrap">
+									<div class="contact-icon-svg">
+										<svg version="1.1" id="Layer_10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+				 width="66px" height="65px" viewBox="-12 7 80 58" enable-background="new 0 0 66 54" xml:space="preserve">
+  <g>  
+  <path  d="m5.3,25.6l0,-11.3c0,-7.2 5.9,-13.1 13.100001,-13.1l0,0c7.199999,0 13.1,5.9 13.1,13.1l0,11.3c0,5.6 -3.6,10.4 -8.6,12.300001" stroke-miterlimit="10" stroke-width="1.5" stroke="#fff" fill="none" clip-rule="evenodd" fill-rule="evenodd"/>
+  <path  d="m5.3,15.2c-2.5,0.3 -4.3,2.400001 -4.3,5.000001c0,2.5 1.9,4.599998 4.3,5l0,-10.000001z" stroke-miterlimit="10" stroke-width="1.5" stroke="#fff" fill="none" clip-rule="evenodd" fill-rule="evenodd"/>
+  <path  d="m31.700001,15.2c2.5,0.3 4.299999,2.400001 4.299999,5.000001c0,2.5 -1.899998,4.599998 -4.299999,5l0,-10.000001z" stroke-miterlimit="10" stroke-width="1.5" stroke="#fff" fill="none" clip-rule="evenodd" fill-rule="evenodd"/>
+  <path  d="m18.299999,38.200001c0,-1.381218 1.118786,-2.5 2.5,-2.5c1.381216,0 2.5,1.118782 2.5,2.5c0,1.381214 -1.118784,2.5 -2.5,2.5c-1.381214,0 -2.5,-1.118786 -2.5,-2.5z"  stroke-width="1.5" stroke="#fff" fill-opacity="null" fill="none"/>
+ </g>
+</svg>									</div>
+								</div>
+								</a>
+							</div>
+							<div class="col-lg-12   contact-number"><p class=""><a href="http://multia.ticksy.com/">multia.ticksy.com</a></p></div>
+						</div>
+						
+						<div class="col-lg-3 col-md-3 col-sm-3  sm-button">
+							<p class="subscribe-head">Subscribe to our Monthly Newsletter.</p>
+						</div>
+						<div class="align-center col-lg-8 footer-without-border">
+							<ul class="nav navbar-nav border-nav">                                 
+							<li><a href="https://www.facebook.com/multia.in">fb</a></li>
+							<li><a href="https://twitter.com/Multia_studio">twr</a></li>
+							<li><a href="https://dribbble.com/Multia-Studio">dr</a></li>
+							<li><a href="https://www.behance.net/multia-studio">be</a></li>
+							<li><a href="http://themeforest.net/user/Multia-Studio">tf</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!--/Footer-->
+		</div>
+		<!--/Wrapper-->
+	
+	<!--Javascripts-->
+	<script type='text/javascript' src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/js/jquery.js"></script>
+	<script type='text/javascript' src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/js/plugins.js"></script>
+	<script type='text/javascript' src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/js/bootstrap.min.js"></script>	
+	<script type='text/javascript' src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/js/jssor.js"></script>	
+	<script type='text/javascript' src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/js/jssor.slider.js"></script>
+	<script type='text/javascript' src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/js/jquery.parallaxify.min.js"></script>
+	<script type='text/javascript' src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/js/jquery.square_menu.js"></script>
+	<script type='text/javascript' src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/js/svg.min.js"></script>	
+	<script type="text/javascript" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/js/wow.min.js"></script>
+	<script type="text/javascript" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/js/notifyMe.js"></script>
+	<script type="text/javascript" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/js/magnific-popup.min.js"></script>
+	<script type="text/javascript" src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/js/jquery.animsition.min.js"></script>
+	<script type='text/javascript' src="http://multia.in/theme/mievent/corporate/slider/assets/css/assets/js/scripts.js"></script>	
+	<script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-54269177-1', 'auto');  ga('send', 'pageview');</script>
+</body>
+</html>
