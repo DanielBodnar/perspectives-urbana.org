@@ -1,0 +1,43 @@
+*.csv
+*.dat
+*.iml
+*.log
+*.out
+*.pid
+*.seed
+*.sublime-*
+*.swo
+*.swp
+*.tgz
+*.xml
+.DS_Store
+.idea
+.project
+.strong-pm
+coverage
+node_modules
+npm-debug.log
+
+# Ignore all logfiles and tempfiles.
+!log/
+log/*.log
+
+tmp/*
+!tmp/*.txt
+
+
+# ingore the node_modules dir as that needs to be server specific
+node_modules/*
+api/node_modules/*
+
+
+# ignore stuff for bower
+assets/bower
+
+# ignore contents of output_files
+!output_files/
+output_files/*
+
+npm-debug.log
+
+db/data/*
