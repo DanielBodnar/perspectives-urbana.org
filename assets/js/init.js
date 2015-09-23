@@ -142,7 +142,7 @@ var init = function() {
 
 
     /** Subscribe JS **/
-    jQuery("#notifyMe").notifyMe(); // Activate notifyMe plugin on a '#notifyMe' element 
+    // jQuery("#notifyMe").notifyMe(); // Activate notifyMe plugin on a '#notifyMe' element 
 
 
     /*** Overlay close*********/
@@ -162,10 +162,10 @@ var init = function() {
 
     /******* Nice Scroll *******/
 
-    jQuery("html").niceScroll();
+    // jQuery("html").niceScroll();
 
     /** Placeholder JS call **/
-    jQuery('input[type=text], textarea').placeholder();
+    // jQuery('input[type=text], textarea').placeholder();
 
     panel();
     /*************************************/

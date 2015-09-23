@@ -91,7 +91,7 @@ strong {
 }
 
 html {
-    overflow: hidden
+    /*overflow: hidden*/
 }
 
 body {
@@ -246,16 +246,20 @@ hr {
     display: none
 }
 
+
 /*#sec_1 {
     background: url(../img/bg_pattern.png) rgba(33, 39, 57, .5);
     position: relative;
     overflow: hidden
 }*/
+
 #sec_1 {
-    background: url("/assets/img/backgrounds/bgsky.jpg") repeat scroll 0 0 rgba(33, 39, 57, 0.5);
+/*    background: url("/assets/img/backgrounds/bgsky.jpg") repeat scroll 0 0 rgba(33, 39, 57, 0.5);*/
     position: relative;
     overflow: hidden;
 }
+
+
 /*
 .home-bg {
     background: url(../img/slider/globe.jpg) rgba(33, 39, 57, .5);
@@ -270,7 +274,7 @@ hr {
 
 .home-bg {
     animation: 60s ease 0s normal none infinite back_animation;
-    background: url('../img/slider/globe.jpg') no-repeat center center;
+    background: url('/assets/img/backgrounds/bgsky.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -280,7 +284,7 @@ hr {
     top: 0;
     left: 0;
     width: 100%;
-    z-index: -1;
+    /*z-index: -1;*/
 }
 
 .home-bg,
@@ -357,16 +361,26 @@ hr {
     font-weight: 700;
     letter-spacing: .2em;
     text-transform: uppercase;
-    padding: 0 10%
+    padding: 0 10%;
+    /*text-shadow: -1px -1px 0 #006, 1px -1px 0 #006, -1px 1px 0 #006, 1px 1px 0 #006;*/
+
+    /*-webkit-text-stroke: 1px #eef;*/
+    text-shadow: 3px 3px 0 #003, -1px -1px 0 #003, 1px -1px 0 #003, -1px 1px 0 #003, 1px 1px 0 #003;
 }
 
 .landing-text-pos p {
     color: #fff;
-    font-size: 1.5em;
+    font-size: 2em!important;
     letter-spacing: .2em;
     line-height: 1.5em;
     padding: 0 30%;
-    text-transform: uppercase
+    text-transform: uppercase;
+
+    font-weight: bold;
+    font-size: 18px;
+    /*-webkit-text-stroke: 1px black;*/
+    color: white;
+    text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
 .learn-more-btn {
@@ -1049,10 +1063,11 @@ div.avatar {
 }
 
 .swag {
-    background: url(../img/backgrounds/bg-input.jpg) center center/cover no-repeat fixed;
-    -webkit-background-size: cover;
+    background: url(../img/backgrounds/bg-input.jpg) center center no-repeat fixed;
+    height:405px;
+/*    -webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover
+    -o-background-size: cover*/
 }
 
 .swag h1 {

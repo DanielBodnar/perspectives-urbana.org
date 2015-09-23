@@ -1,10 +1,11 @@
 angular.module('app')
 
-.directive('init', function() {
+.directive('init', function($rootScope) {
     return {
         restrict: 'A',
         link: function($scope, element, attrs) {
-            init();
+            console.log('initializing...')
+                init();
         }
     }
 })
@@ -140,9 +141,9 @@ angular.module('app')
 })
 
 
-jQuery('#defaultCountdown').countdown({
-    until: new Date(2016, 1, 12)
-});
+// jQuery('#defaultCountdown').countdown({
+//     until: new Date(2016, 1, 12)
+// });
 // .directive('init', function() {
 //     return {
 //         restrict: 'A',

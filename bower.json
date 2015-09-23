@@ -29,6 +29,7 @@
     "angular-resource": "~1.4.5",
     "angular-cookies": "~1.4.5",
     "dang-jssor": "~0.0.3",
-    "ngSmoothScroll": "~1.7.1"
+    "ngSmoothScroll": "~1.7.1",
+    "angular-bootstrap": "~0.13.4"
   }
 }

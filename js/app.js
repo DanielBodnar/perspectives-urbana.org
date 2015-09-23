@@ -30,5 +30,5 @@ angular.module('app')
             });
     }])
 
-.controller('homeCtrl', function($scope, $state) {
+.controller('homeCtrl', function($scope, $rootScope, $state) {
 })

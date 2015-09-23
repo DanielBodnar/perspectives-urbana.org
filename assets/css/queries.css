@@ -78,10 +78,10 @@
         -o-transition: all .25s;
         transition: all .25s
     }
-    .subscribe,
+/*    .subscribe,
     .swag {
         background-attachment: scroll
-    }
+    }*/
     .d-sch {
         background: url(../img/dicn.png) right 30px/4% auto no-repeat rgba(0, 0, 0, 0)
     }
