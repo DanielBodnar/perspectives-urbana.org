@@ -2,7 +2,7 @@ var init = function() {
 
 
     /** *************Init JS*********************
-        
+
         TABLE OF CONTENTS
         ---------------------------
         1. Preloader
@@ -42,8 +42,7 @@ var init = function() {
     /*******Smooth scroll***********/
 
     /*** 3D Gallery *********/
-    new CBPGridGallery(document.getElementById('grid-gallery'));
-    new CBPFWTabs(document.getElementById('tabs-ui'));
+
 
     /********Vimeo Video*****************/
 
@@ -130,20 +129,9 @@ var init = function() {
     }
 
     /***************** Animation ******************/
-    var wow = new WOW({
-        boxClass: 'wow', // animated element css class (default is wow)
-        animateClass: 'animated', // animation css class (default is animated)
-        offset: 0, // distance to the element when triggering the animation (default is 0)
-        mobile: false, // trigger animations on mobile devices (default is true)
-        live: true // act on asynchronously loaded content (default is true)
-    });
-
-    wow.init();
-
-
 
     /** Subscribe JS **/
-    // jQuery("#notifyMe").notifyMe(); // Activate notifyMe plugin on a '#notifyMe' element 
+    // jQuery("#notifyMe").notifyMe(); // Activate notifyMe plugin on a '#notifyMe' element
 
 
     /*** Overlay close*********/
@@ -199,7 +187,7 @@ var init = function() {
     //     $slides.data('superslides').animate('next');
     // });
 
-    
+
     /*** Auto height function ***/
     // var setElementHeight = function() {
     //     var height = jQuery(window).height();

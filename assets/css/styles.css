@@ -262,7 +262,7 @@ hr {
 
 /*
 .home-bg {
-    background: url(../img/slider/globe.jpg) rgba(33, 39, 57, .5);
+    background: url(/assets/img/slider/globe.jpg) rgba(33, 39, 57, .5);
     cursor: move;
     height: 100%;
     left: 0;
@@ -581,6 +581,14 @@ figure.vimeo-video {
     background: url(../img/video.jpg) center center/cover no-repeat rgba(0, 0, 0, 0)
 }
 
+figure.psp-promo-1 {
+    background: url(/assets/img/introvideoplaceholder.jpg) left center/cover no-repeat rgba(0, 0, 0, 0)
+}
+
+figure.psp-promo-2 {
+    background: url(http://img.youtube.com/vi/h6a-uSBHu9A/1.jpg) center center/cover no-repeat rgba(0, 0, 0, 0)
+}
+
 .block-hover {
     background: url(../img/gallery/gallery.jpg) center center/cover no-repeat;
     height: 392px;
@@ -629,7 +637,7 @@ figure.vimeo-video {
     letter-spacing: .1em;
     opacity: 0;
     position: absolute;
-    top: 35%
+    top: 0
 }
 
 .block-hover:hover img {
@@ -1063,11 +1071,15 @@ div.avatar {
 }
 
 .swag {
-    background: url(../img/backgrounds/bg-input.jpg) center center no-repeat fixed;
-    height:405px;
-/*    -webkit-background-size: cover;
+    background: url(/assets/img/slider/globe.jpg) center center/cover no-repeat fixed;
+    /*height:405px;*/
+    -webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover*/
+    -o-background-size: cover
+}
+
+.swag img {
+    /*width:200px;*/
 }
 
 .swag h1 {

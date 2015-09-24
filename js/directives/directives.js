@@ -103,6 +103,7 @@ angular.module('app')
     }
 })
 
+
 .directive('venoboxframe', function() {
     return {
         restrict: 'C',
@@ -140,6 +141,23 @@ angular.module('app')
     }
 })
 
+.directive('gridGallery', function() {
+    return {
+        restrict: 'C',
+        link: function($scope, element, attrs) {
+            new CBPGridGallery(element[0]);
+        }
+    }
+})
+
+.directive('tabsUi', function() {
+    return {
+        restrict: 'C',
+        link: function($scope, element, attrs) {
+            new CBPFWTabs(element[0]);
+        }
+    }
+})
 
 // jQuery('#defaultCountdown').countdown({
 //     until: new Date(2016, 1, 12)
