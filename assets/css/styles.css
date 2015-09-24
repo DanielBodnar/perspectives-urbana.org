@@ -622,10 +622,10 @@ figure.psp-promo-2 {
 .block-hover a {
     display: block;
     height: 81px;
-    left: calc(50% - 55px);
+    left: calc(50% - 155px);
     position: absolute;
     top: calc(50% - 40.5px);
-    width: 110px;
+    width: 310px;
     -webkit-transition: opacity .35s;
     transition: opacity .35s
 }
@@ -637,7 +637,7 @@ figure.psp-promo-2 {
     letter-spacing: .1em;
     opacity: 0;
     position: absolute;
-    top: 0
+    top: 25px
 }
 
 .block-hover:hover img {
