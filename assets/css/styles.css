@@ -254,7 +254,12 @@ hr {
 }*/
 
 #sec_1 {
-    background: url("/assets/img/backgrounds/bgsky.jpg") repeat scroll 0 0 rgba(33, 39, 57, 1);
+    background: url("http://res.cloudinary.com/pspclass/image/fetch/w_1920,h_976,c_fit,f_auto/http://dentonperspectives.org/assets/img/backgrounds/bgsky.jpg") repeat scroll 0 0 rgba(33, 39, 57, 1);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
     position: relative;
     overflow: hidden;
 }
@@ -295,7 +300,7 @@ hr {
 
 .home-bg {
     animation: 60s ease 0s normal none infinite back_animation;
-    background: url('/assets/img/backgrounds/star-bg-2.jpg') no-repeat center center;
+    background: url('http://res.cloudinary.com/pspclass/image/fetch/w_1920,h_967,c_fit,f_auto/http://dentonperspectives.org/assets/img/backgrounds/star-bg-2.jpg') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -379,7 +384,9 @@ hr {
 }
 
 .landing-text-pos h1 {
-    font-size: 3.5em;
+    animation: 90s ease 0s normal none infinite back_animation;
+    transition: all 20s ease;
+    font-size: 4.5em;
     font-weight: 700;
     letter-spacing: .2em;
     text-transform: uppercase;
@@ -390,12 +397,17 @@ hr {
     text-shadow: 3px 3px 0 #003, -1px -1px 0 #003, 1px -1px 0 #003, -1px 1px 0 #003, 1px 1px 0 #003;
 }
 
-.landing-text-pos p {
+.landing-text-pos h1.shadow  {
+    /*animation: 60s ease 0s normal none infinite back_animation;*/
+    text-shadow: 12px 12px 10px #003, -1px -1px 0 #003, 1px -1px 0 #003, -1px 1px 0 #003, 1px 1px 0 #003;
+}
+
+.landing-text-pos p, .scripture p {
     color: #fff;
     font-size: 2em!important;
     letter-spacing: .2em;
     line-height: 1.5em;
-    padding: 0 30%;
+    padding: 0 20%;
     text-transform: uppercase;
 
     font-weight: bold;
@@ -1093,7 +1105,7 @@ div.avatar {
 }
 
 .swag {
-    background: url(/assets/img/slider/globe.jpg) center center/cover no-repeat fixed;
+    background: url('http://res.cloudinary.com/pspclass/image/fetch/w_1280,h_1024,c_fit,f_auto/http://dentonperspectives.org/assets/img/slider/globe.jpg') center center/cover no-repeat fixed;
     /*height:405px;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;

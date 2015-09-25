@@ -10,6 +10,26 @@ angular.module('app')
     }
 })
 
+.directive('growShadow', function($interval, $timeout) {
+    return {
+        restrict: 'A',
+        link: function($scope, element, attrs) {
+            var toggled = false;
+
+            var t = function(){
+                console.log('toggling shadow:', toggled)
+                element.toggleClass('shadow', !toggled);
+                toggled = !toggled;
+            }
+
+
+            $timeout(t, 500);
+            $interval(t, 35000);
+
+        }
+    }
+})
+
 .directive('autoheight', function() {
     return {
         restrict: 'C',
@@ -27,6 +47,8 @@ angular.module('app')
         }
     }
 })
+
+.directive()
 
 .directive('jssor', function() {
     return {
