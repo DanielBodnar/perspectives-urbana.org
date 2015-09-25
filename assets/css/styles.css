@@ -384,8 +384,8 @@ hr {
 }
 
 .landing-text-pos h1 {
-    animation: 90s ease 0s normal none infinite back_animation;
-    transition: all 20s ease;
+    animation: 60s ease 0s normal none infinite back_animation;
+    transition: all 30s ease;
     font-size: 4.5em;
     font-weight: 700;
     letter-spacing: .2em;

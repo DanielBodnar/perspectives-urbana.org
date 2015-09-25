@@ -23,8 +23,8 @@ angular.module('app')
             }
 
 
-            $timeout(t, 500);
-            $interval(t, 35000);
+            $timeout(t, 100);
+            $interval(t, 30000);
 
         }
     }
