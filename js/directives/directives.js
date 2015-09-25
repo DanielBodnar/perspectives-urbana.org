@@ -10,25 +10,19 @@ angular.module('app')
     }
 })
 
-.directive('growShadow', function($interval, $timeout) {
-    return {
-        restrict: 'A',
-        link: function($scope, element, attrs) {
-            var toggled = false;
+// .directive('growShadow', function($interval, $timeout) {
+//     return {
+//         restrict: 'A',
+//         link: function($scope, element, attrs) {
+//             var t = function(){
+//                 element.addClass('shadow');
+//             }
+            
+//             $timeout(t, 100);
 
-            var t = function(){
-                console.log('toggling shadow:', toggled)
-                element.toggleClass('shadow', !toggled);
-                toggled = !toggled;
-            }
-
-
-            $timeout(t, 100);
-            $interval(t, 30000);
-
-        }
-    }
-})
+//         }
+//     }
+// })
 
 .directive('autoheight', function() {
     return {
