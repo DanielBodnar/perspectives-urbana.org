@@ -32,7 +32,7 @@ api/node_modules/*
 
 
 # ignore stuff for bower
-assets/bower
+#assets/bower
 
 # ignore contents of output_files
 !output_files/
